@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/daniilkurpachenko/CLionProjects/DataDelete/main.cpp
+iostream
+-
+fstream
+-
+sys/stat.h
+-
+string
+-
+
